@@ -1,0 +1,6 @@
+My goals for learning GitHub:
+- Understand commits
+- Practice branching
+- Learn pull requests
+- Build confidence
+
