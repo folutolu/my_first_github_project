@@ -3,4 +3,5 @@ My goals for learning GitHub:
 - Practice branching
 - Learn pull requests
 - Build confidence
+- Collaborate with others on GitHub
 
